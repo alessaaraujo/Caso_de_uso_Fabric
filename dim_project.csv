@@ -1,0 +1,6 @@
+ProjectId,ProjectName,ProjectManagerId,StartDate,EndDatePlanned,EndDateActual,Status,TeamId
+P001,Portal do Cliente,E010,2025-01-10,2025-04-30,2025-05-10,Concluído,T01
+P002,Sistema de Estoque,E015,2025-02-01,2025-07-15,,Em Andamento,T02
+P003,Implantação CRM,E012,2025-03-05,2025-10-30,,Em Andamento,T01
+P004,Automação Financeira,E018,2024-11-20,2025-03-31,2025-04-05,Concluído,T03
+P005,Migração para Nuvem,E010,2025-01-15,2025-06-30,,Atrasado,T03
