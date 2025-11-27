@@ -1,0 +1,11 @@
+TaskId,ProjectId,EmployeeId,TaskTitle,Status,StartDate,DueDate,CompletedDate,EstimatedHours,ActualHours,ProgressPct
+T0001,P001,E011,Desenvolver API de Login,Concluído,2025-01-15,2025-01-25,2025-01-27,16,20,1
+T0002,P001,E013,Criar Casos de Teste,Concluído,2025-01-20,2025-02-05,2025-02-06,12,14,1
+T0003,P002,E014,Desenhar Modelo de Estoque,Em Andamento,2025-02-05,2025-02-28,,20,,0.6
+T0004,P002,E015,Reunião de Kickoff,Concluído,2025-02-01,2025-02-03,2025-02-03,4,3,1
+T0005,P003,E011,Integração CRM,Em Andamento,2025-03-07,2025-04-10,,40,,0.4
+T0006,P003,E012,Mapeamento de Requisitos,Concluído,2025-03-05,2025-03-20,2025-03-18,24,22,1
+T0007,P004,E017,Automatizar Extratos,Concluído,2024-12-01,2025-01-20,2025-01-25,60,72,1
+T0008,P004,E018,Documentar API Financeira,Concluído,2024-11-25,2024-12-20,2024-12-22,30,35,1
+T0009,P005,E016,Desenho UX da Nuvem,Em Andamento,2025-01-20,2025-02-10,,25,,0.5
+T0010,P005,E017,Avaliação de Custo de Migração,Em Andamento,2025-01-22,2025-02-12,,18,,0.3
