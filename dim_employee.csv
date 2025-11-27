@@ -1,0 +1,10 @@
+EmployeeId,EmployeeName,Role,TeamId
+E010,Ana Souza,Project Manager,T01
+E011,Carlos Braga,Desenvolvedor,T01
+E012,Marina Lopes,Product Owner,T01
+E013,Ricardo Mota,Analista QA,T02
+E014,Sofia Martins,Desenvolvedor,T02
+E015,Bruno Lima,Project Manager,T02
+E016,Aline Castro,Designer UX,T03
+E017,Thiago Melo,Analista de Dados,T03
+E018,Rogério Santos,Project Manager,T03
