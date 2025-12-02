@@ -4,3 +4,9 @@ P002,Sistema de Estoque,E015,2025-02-01,2025-07-15,,Em Andamento,T02
 P003,Implantação CRM,E012,2025-03-05,2025-10-30,,Em Andamento,T01
 P004,Automação Financeira,E018,2024-11-20,2025-03-31,2025-04-05,Concluído,T03
 P005,Migração para Nuvem,E010,2025-01-15,2025-06-30,,Atrasado,T03
+P006,Portal Atendimento 2.0,E012,2025-04-01,2025-09-15,,Em Andamento,T01
+P007,Aplicativo de Inventário,E015,2025-03-10,2025-08-30,,Em Andamento,T02
+P008,Integração Financeira Bancária,E018,2025-02-20,2025-06-30,,Em Andamento,T03
+P009,Painel Executivo BI,E017,2025-04-15,2025-10-01,,Em Andamento,T03
+P010,Sistema de Reclamações,E010,2025-01-25,2025-05-30,,Atrasado,T01
+
