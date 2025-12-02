@@ -1,11 +1,37 @@
-TaskId,ProjectId,EmployeeId,TaskTitle,Status,StartDate,DueDate,CompletedDate,EstimatedHours,ActualHours,ProgressPct
-T0001,P001,E011,Desenvolver API de Login,Concluído,2025-01-15,2025-01-25,2025-01-27,16,20,1
-T0002,P001,E013,Criar Casos de Teste,Concluído,2025-01-20,2025-02-05,2025-02-06,12,14,1
-T0003,P002,E014,Desenhar Modelo de Estoque,Em Andamento,2025-02-05,2025-02-28,,20,,0.6
-T0004,P002,E015,Reunião de Kickoff,Concluído,2025-02-01,2025-02-03,2025-02-03,4,3,1
-T0005,P003,E011,Integração CRM,Em Andamento,2025-03-07,2025-04-10,,40,,0.4
-T0006,P003,E012,Mapeamento de Requisitos,Concluído,2025-03-05,2025-03-20,2025-03-18,24,22,1
-T0007,P004,E017,Automatizar Extratos,Concluído,2024-12-01,2025-01-20,2025-01-25,60,72,1
-T0008,P004,E018,Documentar API Financeira,Concluído,2024-11-25,2024-12-20,2024-12-22,30,35,1
-T0009,P005,E016,Desenho UX da Nuvem,Em Andamento,2025-01-20,2025-02-10,,25,,0.5
-T0010,P005,E017,Avaliação de Custo de Migração,Em Andamento,2025-01-22,2025-02-12,,18,,0.3
+TaskId,ProjectId,EmployeeId,TeamId,TaskTitle,Status,StartDate,DueDate,CompletedDate,EstimatedHours,ActualHours,ProgressPct
+T0001,P001,E011,T01,Desenvolver API de Login,Concluído,2025-01-15,2025-01-25,2025-01-27,16,20,1
+T0002,P001,E013,T01,Criar Casos de Teste,Concluído,2025-01-20,2025-02-05,2025-02-06,12,14,1
+T0003,P002,E014,T02,Desenhar Modelo de Estoque,Em Andamento,2025-02-05,2025-02-28,,20,,0.6
+T0004,P002,E015,T02,Reunião de Kickoff,Concluído,2025-02-01,2025-02-03,2025-02-03,4,3,1
+T0005,P003,E011,T01,Integração CRM,Em Andamento,2025-03-07,2025-04-10,,40,,0.4
+T0006,P003,E012,T01,Mapeamento de Requisitos,Concluído,2025-03-05,2025-03-20,2025-03-18,24,22,1
+T0007,P004,E017,T03,Automatizar Extratos,Concluído,2024-12-01,2025-01-20,2025-01-25,60,72,1
+T0008,P004,E018,T03,Documentar API Financeira,Concluído,2024-11-25,2024-12-20,2024-12-22,30,35,1
+T0009,P005,E016,T03,Desenho UX da Nuvem,Em Andamento,2025-01-20,2025-02-10,,25,,0.5
+T0010,P005,E017,T03,Avaliação de Custo de Migração,Em Andamento,2025-01-22,2025-02-12,,18,,0.3
+T0011,P006,E011,T01,Análise de Requisitos,Concluído,2025-04-02,2025-04-20,2025-04-18,24,26,1
+T0012,P006,E012,T01,Protótipo de Telas,Concluído,2025-04-10,2025-05-05,2025-05-04,32,30,1
+T0013,P006,E011,T01,Desenvolver API de Tickets,Em Andamento,2025-05-06,2025-06-15,,60,,0.55
+T0014,P006,E013,T01,Casos de Teste do Atendimento,Em Andamento,2025-06-01,2025-06-25,,20,,0.4
+T0015,P006,E011,T01,Integração com CRM,Em Andamento,2025-06-20,2025-07-30,,50,,0.25
+T0016,P007,E014,T02,Desenho da Arquitetura Mobile,Concluído,2025-03-12,2025-03-30,2025-03-28,20,22,1
+T0017,P007,E015,T02,Configuração do Backend,Concluído,2025-03-20,2025-04-15,2025-04-16,40,42,1
+T0018,P007,E014,T02,Desenvolvimento do Scanner de Código,Em Andamento,2025-04-18,2025-06-05,,60,,0.45
+T0019,P007,E013,T02,Testes de Inventário,Em Andamento,2025-05-25,2025-06-30,,24,,0.3
+T0020,P007,E015,T02,Integração com ERP,Em Andamento,2025-06-10,2025-08-10,,80,,0.2
+T0021,P008,E017,T03,Mapeamento de Fluxos Bancários,Concluído,2025-02-22,2025-03-15,2025-03-14,32,30,1
+T0022,P008,E018,T03,Criação da API Bancária,Concluído,2025-03-18,2025-05-01,2025-05-05,80,88,1
+T0023,P008,E017,T03,Validação de Segurança,Em Andamento,2025-05-10,2025-06-20,,48,,0.65
+T0024,P008,E018,T03,Integração com ERP Financeiro,Em Andamento,2025-06-01,2025-07-30,,60,,0.4
+T0025,P008,E017,T03,Testes de Conciliação,Em Andamento,2025-06-15,2025-07-25,,30,,0.2
+T0026,P009,E017,T03,Levantamento de Indicadores,Concluído,2025-04-16,2025-05-05,2025-05-03,16,18,1
+T0027,P009,E017,T03,Modelagem do DataLake,Em Andamento,2025-05-06,2025-06-30,,64,,0.5
+T0028,P009,E018,T03,Criação dos Dashboards,Em Andamento,2025-06-20,2025-08-20,,80,,0.35
+T0029,P009,E017,T03,Automação de Pipelines,Em Andamento,2025-07-10,2025-09-01,,50,,0.25
+T0030,P009,E018,T03,Testes e Validação dos KPIs,Em Andamento,2025-07-25,2025-09-20,,32,,0.1
+T0031,P010,E011,T01,Análise de Reclamações,Concluído,2025-01-26,2025-02-15,2025-02-18,24,28,1
+T0032,P010,E012,T01,Protótipo da Área do Consumidor,Concluído,2025-02-10,2025-03-05,2025-03-12,36,40,1
+T0033,P010,E011,T01,Desenvolvimento do Módulo Principal,Atrasado,2025-03-15,2025-04-30,,120,,0.6
+T0034,P010,E013,T01,Testes Funcionais,Atrasado,2025-04-20,2025-05-25,,40,,0.2
+T0035,P010,E012,T01,Documentação e Treinamento,Atrasado,2025-05-02,2025-05-30,,20,,0.1
+
